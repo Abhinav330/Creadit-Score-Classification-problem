@@ -1,3 +1,23 @@
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Creadit-Score-Classification-problem/beautifulsoup4?color=green)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Creadit-Score-Classification-problem/fastapi?color=gold)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Creadit-Score-Classification-problem/flask?color=yellow)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Creadit-Score-Classification-problem/matplotlib?color=blue)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Creadit-Score-Classification-problem/nltk?color=silver)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Creadit-Score-Classification-problem/numpy?color=yellow)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Creadit-Score-Classification-problem/pandas?color=silver)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Creadit-Score-Classification-problem/requests?color=blue)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Creadit-Score-Classification-problem/scikit-learn?color=red)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Creadit-Score-Classification-problem/scipy?color=red)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Creadit-Score-Classification-problem/seaborn?color=green)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Creadit-Score-Classification-problem/starlette?color=yellow)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Creadit-Score-Classification-problem/statsmodels?color=blue)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Creadit-Score-Classification-problem/tensorflow?color=silver)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Creadit-Score-Classification-problem/tqdm?color=beige)
+![GitHub Pipenv locked dependency version](https://img.shields.io/github/pipenv/locked/dependency-version/Abhinav330/Creadit-Score-Classification-problem/xgboost?color=yellow)
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/Abhinav330/Creadit-Score-Classification-problem?color=dark%20green)
+![GitHub repo size](https://img.shields.io/github/repo-size/Abhinav330/Creadit-Score-Classification-problem)
+
+
 # Credit Card Customer Analysis
 
 ## Description
